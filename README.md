@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](/github-metrics.svg)
+
 ![](https://komarev.com/ghpvc/?username=Gruce&color=6d66eb&label=Profile_Views)
  
 ![Gruce stats](https://github-readme-stats.vercel.app/api?username=Gruce&show_icons=true&theme=tokyonight) 
